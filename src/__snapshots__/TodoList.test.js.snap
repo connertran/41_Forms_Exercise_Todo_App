@@ -4,12 +4,12 @@ exports[`matches snapshot 1`] = `
 <DocumentFragment>
   <form>
     <label
-      for="2930fa44-be4c-42d8-aa8d-6473a7c24c15"
+      for="e77de432-0172-4980-96bc-33c2a960156e"
     >
       Task: 
     </label>
     <input
-      id="2930fa44-be4c-42d8-aa8d-6473a7c24c15"
+      id="e77de432-0172-4980-96bc-33c2a960156e"
       name="task"
       placeholder=" Enter a task to do"
       type="text"
